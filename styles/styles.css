@@ -1,0 +1,10 @@
+.body {
+  height:100vh;
+}
+
+.footer {
+  border: 1px solid #000;
+  height: 100px;
+  background-color: grey;
+  text-align: center;
+}
